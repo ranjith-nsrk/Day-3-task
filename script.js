@@ -1,3 +1,6 @@
+For the given JSON iterate over all for loops ( for , for in for of for Each )
+
+
 let json = {
   "name": "John Doe",
   "age": 35,
