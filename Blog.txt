@@ -1,0 +1,11 @@
+Read about the difference between window , screen and document in JavaScript:
+
+In JavaScript, the window, screen, and document objects represent different aspects of a web page and are commonly used in web development. Here is a brief explanation of each object:
+
+Window: The window object represents the web browser window that contains the currently loaded web page. It provides access to the current browser window's properties and methods. You can use it to resize the window, scroll the window, access the window's location, history, and more.
+
+Screen: The screen object represents the screen of the device that is displaying the web page. It provides information about the screen's properties, such as its width, height, color depth, and more. You can use it to determine the available screen size and make decisions about how your page is displayed.
+
+Document: The document object represents the web page itself. It provides access to the HTML content of the page and allows you to manipulate that content. You can use it to retrieve and modify the HTML elements on a page, manipulate styles, and more.
+
+In general, you can use the window object to manipulate the browser window and the screen object to get information about the device's screen. The document object provides access to the content of the web page itself
