@@ -1,4 +1,4 @@
-Read about the difference between window , screen and document in JavaScript:
+Read about the difference between window , screen and document in JavaScript :
 
 In JavaScript, the window, screen, and document objects represent different aspects of a web page and are commonly used in web development. Here is a brief explanation of each object:
 
